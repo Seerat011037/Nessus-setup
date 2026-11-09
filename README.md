@@ -372,28 +372,8 @@ By severity (CVSS), whether a public exploit exists, how exposed the asset is, h
 
 ---
 
-## 11. Repository Structure
 
-```text
-.
-├── README.md
-├── screenshots/
-│   ├── 01-nessus-download.png
-│   ├── 02-dpkg-install.png
-│   ├── 03-start-service-status.png
-│   ├── 04-nessus-initializing.png
-│   ├── 05-downloading-plugins.png
-│   ├── 06-scan-configuration.png        <- add
-│   ├── 07-scan-running.png              <- add
-│   ├── 08-scan-results-summary.png      <- add
-│   └── 09-vulnerability-detail.png      <- add
-└── report/
-    └── Nessus_Scan_Report.pdf           <- add
-```
-
----
-
-## 12. References
+## 11. References
 
 - [Tenable Nessus downloads](https://www.tenable.com/downloads/nessus)
 - [Nessus documentation](https://docs.tenable.com/nessus/Content/GetStarted.htm)
@@ -410,5 +390,3 @@ Cybersecurity Analyst | Penetration Testing | Vulnerability Assessment
 [LinkedIn](https://linkedin.com/in/seeratfatima-25b5b9412)
 
 ---
-
-*This project was completed for educational purposes on a machine I own.*
